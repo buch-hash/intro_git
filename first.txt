@@ -1,2 +1,4 @@
 I'll start git practicing.
 changed something.
+git add
+git commit
